@@ -7,7 +7,7 @@
 [![Latency](https://img.shields.io/badge/Response%20Time-%3C400ms-lightgrey.svg)]()
 
 A high-efficiency analytical engine that transforms any Bitcoin historical date range into a compact, research-ready insight package. Instead of raw OHLC candles, it provides volatility models, drawdown metrics, monthly performance behavior, seasonal patterns, event detection, and a natural-language summary that describes the chosen timeframe. Everything is computed from real BTC-USD historical data, with no forecasts and no trading signals. Designed for quant developers, analysts, dashboards, bots, and institutional research systems.
-
+https://rapidapi.com/z0art2000/api/btc-statistical-compression-api
 ---
 
 ## 🔍 What the API Provides
