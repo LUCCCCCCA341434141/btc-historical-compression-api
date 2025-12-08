@@ -32,6 +32,9 @@ Reports the earliest and latest available BTC historical dates stored in the eng
 ### `/compress`  
 The core analytical endpoint. A POST request with `start` and `end` dates generates the full compressed statistical package, including the narrative summary and all quantitative sections.
 
+### `Daily Summary Endpoint`
+he /daily-summary endpoint returns structured Bitcoin OHLC data for each day within a selected date range.
+
 ---
 
 ## 🧪 Example Usage
